@@ -1,0 +1,21 @@
+{
+  "name": "session-exersises",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "prettier": "prettier --config .prettierrc *.js --write"
+  },
+  "author": "Muath Ez Zughayyar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
